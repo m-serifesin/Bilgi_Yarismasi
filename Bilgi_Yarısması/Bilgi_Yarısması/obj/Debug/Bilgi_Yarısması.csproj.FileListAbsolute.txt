@@ -1,0 +1,11 @@
+D:\udemy_c#\Bilgi_Yarısması\Bilgi_Yarısması\bin\Debug\Bilgi_Yarısması.exe.config
+D:\udemy_c#\Bilgi_Yarısması\Bilgi_Yarısması\bin\Debug\Bilgi_Yarısması.exe
+D:\udemy_c#\Bilgi_Yarısması\Bilgi_Yarısması\bin\Debug\Bilgi_Yarısması.pdb
+D:\udemy_c#\Bilgi_Yarısması\Bilgi_Yarısması\obj\Debug\Bilgi_Yarısması.csproj.AssemblyReference.cache
+D:\udemy_c#\Bilgi_Yarısması\Bilgi_Yarısması\obj\Debug\Bilgi_Yarısması.csproj.SuggestedBindingRedirects.cache
+D:\udemy_c#\Bilgi_Yarısması\Bilgi_Yarısması\obj\Debug\Bilgi_Yarısması.Form1.resources
+D:\udemy_c#\Bilgi_Yarısması\Bilgi_Yarısması\obj\Debug\Bilgi_Yarısması.Properties.Resources.resources
+D:\udemy_c#\Bilgi_Yarısması\Bilgi_Yarısması\obj\Debug\Bilgi_Yarısması.csproj.GenerateResource.cache
+D:\udemy_c#\Bilgi_Yarısması\Bilgi_Yarısması\obj\Debug\Bilgi_Yarısması.csproj.CoreCompileInputs.cache
+D:\udemy_c#\Bilgi_Yarısması\Bilgi_Yarısması\obj\Debug\Bilgi_Yarısması.exe
+D:\udemy_c#\Bilgi_Yarısması\Bilgi_Yarısması\obj\Debug\Bilgi_Yarısması.pdb
